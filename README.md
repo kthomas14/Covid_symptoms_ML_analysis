@@ -2,6 +2,7 @@
 
 ## Kaylah Thomas
 
+[Link to presentation slides](https://docs.google.com/presentation/d/18mQIuqE_lvfVXbVToCDAJgVsjVvURAGFyf-aD-Nnz3A/edit?usp=sharing)
 
 - Task:
     - summarize your task in less than 3 sentences
@@ -19,5 +20,4 @@
   - Which model(s) did you use?
     - Decision tree classifier
   - For each model, which parameter values did you tune (if you are not using the default value)?
-    - Entropy as criterion
-  - If you are applying multiple models, one slide for each model, and then a separate slide shows the comparison between different models.
+    - Entropy
